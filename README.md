@@ -8,15 +8,20 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="your-facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=Hein-HtetSan&style=flat-square&color=blue" alt=""/>
+  <img src="https://img.shields.io/github/last-commit/Hein-HtetSan/student_management?style=flat-square" alt="Last Commit"/>
+</div>
+
+<div align='center'>
+  
 </div>
 
 <h1>
@@ -31,20 +36,27 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Engineer and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Myanmar.
+:man_technologist: About Me :
+Hello! 👋 I am a passionate Software Engineer and Machine Learning Engineer from Myanmar, constantly striving to push the boundaries of technology.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+:computer: I am proficient in various programming languages including HTML, CSS, JavaScript, MySQL, PHP, Java, and Python, allowing me to build dynamic and robust applications.
 
-- :seedling: Exploring Technical Content Writing.
+:bulb: Currently, I am focusing on further honing my skills in Artificial Intelligence and Machine Learning, as I believe in the potential of AI to revolutionize our world.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+:seedling: Besides my technical pursuits, I have found joy in exploring the art of Technical Content Writing, sharing knowledge with the community.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+:zap: During my leisure time, you can find me challenging myself with problem-solving on GeeksforGeeks and indulging in thought-provoking tech articles.
 
+:mailbox: You can connect with me on LinkedIn: Linkedin Badge
+
+Let's create something amazing together! 😄🚀
 ---
 
 ### :fire: My Stats :
-
+<div align='center'>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hein-HtetSan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hein-HtetSan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
