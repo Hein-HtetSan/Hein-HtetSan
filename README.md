@@ -20,19 +20,13 @@
   <img src="https://img.shields.io/github/last-commit/Hein-HtetSan/student_management?style=flat-square" alt="Last Commit"/>
 </div>
 
-<div align='center'>
-  <iframe src="https://giphy.com/embed/fkZukR450RQ1qnGaq9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-fkZukR450RQ1qnGaq9">via GIPHY</a></p>
-</div>
-
 <h1>
   hey there
   <img src="giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  ![GIPHY](https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif)
-
-  [View on GIPHY](https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO)
+  
 </div>
 
 ---
