@@ -32,7 +32,6 @@
 ---
 
 ### :woman_technologist: About Me :
-:man_technologist: About Me :
 Hello! 👋 I am a passionate Software Engineer and Machine Learning Engineer from Myanmar, constantly striving to push the boundaries of technology.
 
 :computer: I am proficient in various programming languages including HTML, CSS, JavaScript, MySQL, PHP, Java, and Python, allowing me to build dynamic and robust applications.
