@@ -43,11 +43,6 @@ I am a Software Engineer and Machine Learning Engineer <img src="https://media.g
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-
----
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hein-HtetSan&theme=dark&background=000000)](https://git.io/streak-stats)
