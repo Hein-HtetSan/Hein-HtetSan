@@ -11,7 +11,7 @@
   <a href="https://twitter.com/Khanthtet111?t=JOj7jWNcPZHrVIZH5kNghw&s=09">
     <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-facebook-URL">
+  <a href="https://www.facebook.com/kyaw.l.ko.944?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
