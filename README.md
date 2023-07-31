@@ -8,7 +8,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Khanthtet111?t=JOj7jWNcPZHrVIZH5kNghw&s=09"
+  <a href="https://twitter.com/Khanthtet111?t=JOj7jWNcPZHrVIZH5kNghw&s=09">
     <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-facebook-URL">
