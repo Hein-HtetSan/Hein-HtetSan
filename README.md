@@ -17,7 +17,6 @@
 </div>
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=Hein-HtetSan&style=flat-square&color=blue" alt=""/>
-  <img src="https://img.shields.io/github/last-commit/Hein-HtetSan/student_management?style=flat-square" alt="Last Commit"/>
 </div>
 
 <h1>
