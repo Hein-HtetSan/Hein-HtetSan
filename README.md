@@ -45,9 +45,3 @@ Hello! 👋 I am a passionate Software Engineer and Machine Learning Engineer fr
 
 Let's create something amazing together! 😄🚀
 ---
-
-### :fire: My Stats :
-<div align='center'>
-
-
-</div>
