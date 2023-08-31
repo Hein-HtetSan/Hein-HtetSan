@@ -4,7 +4,6 @@
 <br>
 <br>
 <h3 align = "center" > " Talk is cheap. Show me the code! " </h3>
-<h3 align = "center" >SNS & Mail</h3> 
 
 
 <h3 align = "center" >📖Studying📖</h3> 
