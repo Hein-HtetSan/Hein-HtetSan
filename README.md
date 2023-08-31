@@ -1,6 +1,6 @@
 <div align = "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=580&size=40&pause=1000&color=0093FF&center=true&vCenter=true&width=900&lines=Welcome!;My+name+is+Zed.;Full-Stack+Developer;Machine-Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=60&pause=1000&color=0093FF&center=true&vCenter=true&width=900&lines=Welcome!;My+name+is+Zed.;Full-Stack+Developer;Machine-Learning+Engineer)](https://git.io/typing-svg)
 <br>
 <br>
 <h3 align = "center" > " Talk is cheap. Show me the code! " </h3>
