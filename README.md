@@ -29,6 +29,5 @@
 
 <div align = "center" ><h3>Git stats</h3></div>
 
-[![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hein-HtetSan&theme=calm)](https://github.com/Hein-HtetSan/github-readme-stats)
-
+[![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hein-HtetSan&theme=transparent)](https://github.com/Hein-HtetSan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hein-HtetSan&layout=compact&theme=gruvbox)](https://github.com/Hein-HtetSan/github-readme-stats)
