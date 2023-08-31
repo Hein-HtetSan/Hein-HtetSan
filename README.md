@@ -5,7 +5,6 @@
 <br>
 <h3 align = "center" > " Talk is cheap. Show me the code! " </h3>
 
-
 <h3 align = "center" >📖Studying📖</h3> 
 <p align = "center" >
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
