@@ -5,6 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=580&size=30&pause=1000&color=0093FF&center=true&vCenter=true&width=900&lines=Welcome!;Full-Stack+Developer;Machine-Learning+Engineer)](https://git.io/typing-svg)
 <br>
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <h3 align = "center" > " Talk is cheap. Show me the code! " </h3>
 
 
