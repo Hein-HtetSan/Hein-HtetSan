@@ -16,10 +16,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Reading books at free time
+- A passionate Self-taught Full-Stack developer
+- Reading books in free time
 - Currently learning Machine Learning and Artificial Intelligence by Self
-- I’m currently open for an Intern or a new job opportunity.
+- I’m currently open for an internship or a new job opportunity.
 
 <br><br>
 
