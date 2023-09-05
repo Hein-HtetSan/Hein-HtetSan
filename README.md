@@ -19,7 +19,6 @@
 
 <br>
 
-- I am Computer Science Student at UCSY
 - A passionate Self-taught Full-Stack developer
 - Reading books in free time
 - Currently learning Machine Learning and Artificial Intelligence by Self
