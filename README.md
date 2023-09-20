@@ -66,8 +66,5 @@
 
 [![E-jiwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hein-HtetSan&theme=transparent)](https://github.com/Hein-HtetSan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hein-HtetSan&layout=compact&theme=gruvbox)](https://github.com/Hein-HtetSan/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-:heart: credit to owner of this template
