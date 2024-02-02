@@ -1,12 +1,13 @@
 
 <div align=center>
   <h1>I am Hein Htet San</h1>
-  <h3>💻 Software Engineer Student 💻</h3>
+  💻 Software Engineer Student 💻
 </div>
 
 <div align=center>
+  
+<img src="https://github.com/Hein-HtetSan/Hein-HtetSan/assets/99192842/098b68fb-0274-42b5-aae1-74aa440c98f0" alt="Hein Htet San" width="400">
 
-![Blue Gradient Medical Facebook Fundraiser Cover Photo (1)](https://github.com/Hein-HtetSan/Hein-HtetSan/assets/99192842/f6b2c0b8-1e62-48d8-8732-20d79f398130)
 
 
 <div align=center>
