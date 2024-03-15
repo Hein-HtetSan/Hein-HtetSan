@@ -9,7 +9,7 @@ and learning programming through small projects  on the side.
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=java&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-c58545?style=for-the-badge&logo=Java&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Laravel-d1a01f?style=for-the-badge&logo=laravel&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
