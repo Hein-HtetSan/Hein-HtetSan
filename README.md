@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Hein Htet San Trips</b>
 </h1>
 
 Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm 
