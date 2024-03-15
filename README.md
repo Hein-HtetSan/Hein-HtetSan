@@ -16,20 +16,18 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class HeinHtetSan():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Lucas Hein";
+    self.username = "Hein Htet San";
+    self.location = "Yangon, Myanmar";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = HeinHtetSan()
 ```
 
 <div align="center">
@@ -50,7 +48,6 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Hein-HtetSan&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hein-HtetSan&theme=gruvbox&hide_border=true" />
   </a>
