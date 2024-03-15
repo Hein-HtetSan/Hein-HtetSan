@@ -5,8 +5,7 @@
 </div>
 
 <div align=center>
-  
-<img src="https://github.com/Hein-HtetSan/Hein-HtetSan/assets/99192842/098b68fb-0274-42b5-aae1-74aa440c98f0" alt="Hein Htet San" width="400">
+
 
 
 
