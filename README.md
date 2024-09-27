@@ -19,7 +19,7 @@ and learning programming through small projects  on the side.
 class HeinHtetSan():
     
   def __init__(self):
-    self.name = "Lucas Hein";
+    self.name = "Sam";
     self.username = "Hein Htet San";
     self.location = "Yangon, Myanmar";
   
