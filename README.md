@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hein Htet San Trips</b>
+  <b>Sam Trips</b>
 </h1>
 
 Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm 
@@ -58,4 +58,4 @@ if __name__ == '__main__':
 
 ------
 
-Credit: [Lucas Hein](https://github.com/Hein-HtetSan)
+Credit: [Sam](https://github.com/Hein-HtetSan)
