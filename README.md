@@ -30,9 +30,6 @@ if __name__ == '__main__':
     me = HeinHtetSan()
 ```
 
-
-[![Sam's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hein-HtetSan&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
 ------
 
 Credit: [Sam](https://github.com/Hein-HtetSan)
