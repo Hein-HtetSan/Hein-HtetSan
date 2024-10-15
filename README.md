@@ -13,8 +13,6 @@ Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm pass
   <img src="https://img.shields.io/badge/-Laravel-d1a01f?style=for-the-badge&logo=laravel&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828">
 </p>
