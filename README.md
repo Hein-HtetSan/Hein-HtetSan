@@ -26,7 +26,7 @@ Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm pass
 
 ## 📫 Contact Me
 
-- Email: [heinhtetsan@example.com](mailto:heinhtetsan@example.com)
+- Email: [heinhtetsan33455@gamil.com](mailto:heinhtetsan33455@gmail.com)
 - LinkedIn: [Hein Htet San](https://www.linkedin.com/in/heinhtetsan)
 - GitHub: [Hein-HtetSan](https://github.com/Hein-HtetSan)
 
