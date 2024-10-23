@@ -27,7 +27,7 @@ Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm pass
 ## 📫 Contact Me
 
 - Email: [heinhtetsan33455@gamil.com](mailto:heinhtetsan33455@gmail.com)
-- LinkedIn: [Hein Htet San](https://www.linkedin.com/in/heinhtetsan)
+- LinkedIn: [Hein Htet San](https://www.linkedin.com/in/hein-htet-san-849b332a7)
 - GitHub: [Hein-HtetSan](https://github.com/Hein-HtetSan)
 
 ```python
