@@ -2,8 +2,6 @@
   <b>Hein Htet San</b>
 </h1>
 
-Heya! I'm Hein Htet San, a student currently living in Yangon, Myanmar. I'm passionate about technology and learning programming through small projects on the side.
-
 <br>
 
 ## 🛠️ Skills
