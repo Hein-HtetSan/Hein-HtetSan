@@ -13,7 +13,6 @@
 ![Vue](http://img.shields.io/badge/-Vue-3BDA94?style=flat&logo=vue.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Laravel](http://img.shields.io/badge/-Laravel-FF5733?style=flat&logo=laravel&logoColor=ffffff)
-![Vue](http://img.shields.io/badge/-Vue-3BDA94?style=flat&logo=vue.js&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
